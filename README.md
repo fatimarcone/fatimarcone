@@ -1,0 +1,26 @@
+## Hi there 👋 
+
+## En proceso de ser una Python Dev
+
+Estoy en busca de mi primer experiencia en el mundo IT y sumarme a un gran equipo en el que promovamos lo mejor de cada uno.
+Mi objetivo laboral consiste en continuar adquiriendo conocimientos y profesionalizarme en esta área.
+Considero que soy una persona curiosa, creativa y proactiva.
+
+Siempre aprendiendo.
+
+<!--
+**fatimarcone/fatimarcone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
