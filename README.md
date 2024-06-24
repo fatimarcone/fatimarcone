@@ -1,12 +1,10 @@
 ## Hi there 👋 
 
-## En proceso de ser una Python Dev
+## Data Engineer and Machine learning Developer
 
-Estoy en busca de mi primer experiencia en el mundo IT y sumarme a un gran equipo en el que promovamos lo mejor de cada uno.
-Mi objetivo laboral consiste en continuar adquiriendo conocimientos y profesionalizarme en esta área.
-Considero que soy una persona curiosa, creativa y proactiva.
+I'm currently working in cloud computing at one of the biggest IT consulting firms. I love being part of great, motivated teams that are eager to grow and learn. I'm always looking to contribute and learn from others. I am passionate about data and data management, with a strong focus on applying machine learning techniques to extract meaningful insights and drive data-driven decisions. I consider myself very curious, creative, and proactive.
 
-Siempre aprendiendo.
+Always learning.
 
 <!--
 **fatimarcone/fatimarcone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
